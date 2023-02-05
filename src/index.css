@@ -1,0 +1,15 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --bg-black: #0a1226;
+  --bg-black-1: #132147;
+  --bg-accent: #5b80e6;
+  --bg-text-white: #d1d4de;
+  --bg-text-dark: #435386;
+  --bg-text-whitegrey: #95a0bd;
+  --bg-yellow: #6fd152;
+}
