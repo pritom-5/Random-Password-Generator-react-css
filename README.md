@@ -18,7 +18,7 @@ Generate your own robust and secure password in no time.
 ### Starting page:
 
 <br/>
-<img src="./public/screenshots/1_copy.jpg" width="480" />
+<img src="./public/screenshots/1_copy.jpg" width="720" />
 
 <br/>
 
@@ -29,7 +29,7 @@ Generate your own robust and secure password in no time.
 ### Generate:
 
 <br/>
-<img src="./public/screenshots/2_copy.jpg" width="480" />
+<img src="./public/screenshots/2_copy.jpg" width="720" />
 
 <br/>
 
@@ -40,7 +40,7 @@ Generate your own robust and secure password in no time.
 ### Copy To Clipboard:
 
 <br/>
-<img src="./public/screenshots/3_copy.jpg"  width="480" />
+<img src="./public/screenshots/3_copy.jpg"  width="720" />
 
 <br/>
 
@@ -52,7 +52,7 @@ Generate your own robust and secure password in no time.
 ### Increase-Strength:
 
 <br/>
-<img src="./public/screenshots/4_copy.jpg"  width="480" />
+<img src="./public/screenshots/4_copy.jpg"  width="720" />
 
 <br/>
 
@@ -65,7 +65,7 @@ Generate your own robust and secure password in no time.
 ### Strong:
 
 <br/>
-<img src="./public/screenshots/5_copy.jpg"  width="480" />
+<img src="./public/screenshots/5_copy.jpg"  width="720" />
 
 <br/>
 
