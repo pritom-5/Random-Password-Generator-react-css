@@ -11,6 +11,16 @@ Generate your own robust and secure password in no time.
 
 ---
 
+## App Demo:
+
+<br/>
+
+![password-generator](public/screenshots/password-generator_002.gif)
+
+<br/>
+
+---
+
 ## Preview images:
 
 <br/>

@@ -145,11 +145,16 @@ input[type="range"]:focus::-ms-fill-upper {
 /* button generate */
 .generateBtn {
   display: block;
-  border: none;
+  border: 2px solid var(--bg-accent);
   width: 100%;
   background-color: var(--bg-accent);
   color: var(--bg-text-white);
   padding-block: 1rem;
+}
+.generateBtn:hover {
+  background-color: transparent;
+  color: var(--bg-text-white);
+  border: 2px solid var(--bg-accent);
 }
 
 /* no style button */
